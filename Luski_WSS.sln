@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luski_WSS", "Luski_WSS\Luski_WSS.csproj", "{7CE8EBD3-8244-4D13-A1B6-1AF2ADEFB82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE8EBD3-8244-4D13-A1B6-1AF2ADEFB82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE8EBD3-8244-4D13-A1B6-1AF2ADEFB82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE8EBD3-8244-4D13-A1B6-1AF2ADEFB82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE8EBD3-8244-4D13-A1B6-1AF2ADEFB82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E6736AB-D77D-4434-ADA7-2E831B9D14FB}
+	EndGlobalSection
+EndGlobal
